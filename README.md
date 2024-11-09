@@ -14,9 +14,10 @@ Add class FlowParticle, add particle animation, particles follow the flow field.
 Also add collision detection for graphic elements.
 
 ### **2.3.References inspirations：**
-![ref1](yxia0276_9103_tut2\1.jpg)
-![ref2](yxia0276_9103_tut2\2.jpg)
-![ref3](yxia0276_9103_tut2\3.jpg)
+![ref1](https://www.pinterest.com/pin/437552920058302298/)
+![ref2](https://www.pinterest.com/pin/353603008261168502/)
+![ref3](https://www.pinterest.com/pin/42784265204869390/)
+The design is inspired by a variety of elements found in nature. The radiant lines simulate the softness and fluffiness of dandelion pompoms, giving a light and airy visual effect. The disturbed circular pattern refers to the dancing dandelion, as if a gust of wind blows, and the seeds are scattered with the wind, light and free. The overall design also incorporates the wave effect of the water pattern, as if the ripples on the water surface, conveying a dynamic and flowing feeling, highlighting the endless changes of nature and life.
 
 ### **2.4.A short technical explanation:**
 Flow field system: Use 3D Perlin noise to generate dynamic vector fields. Refer to Daniel Shiffman's tutorial.
