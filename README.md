@@ -14,9 +14,10 @@ Add class FlowParticle, add particle animation, particles follow the flow field.
 Also add collision detection for graphic elements.
 
 ### **2.3.References inspirations：**
-![ref1](https://www.pinterest.com/pin/437552920058302298/)
-![ref2](https://www.pinterest.com/pin/353603008261168502/)
-![ref3](https://www.pinterest.com/pin/42784265204869390/)
+![ref1](https://i.pinimg.com/564x/74/df/2e/74df2e31cf968db9b9b5e56f347342be.jpg)
+![ref2](https://i.pinimg.com/564x/70/99/23/709923f7f9b7d88f0939010466194064.jpg)
+![ref3](https://i.pinimg.com/736x/43/2f/40/432f4023d1bc54e27f240d506e2e9b92.jpg)
+![ref4](https://i.pinimg.com/564x/9d/a0/2a/9da02a59cf2d09f9fe2290869e5413f7.jpg)
 The design is inspired by a variety of elements found in nature. The radiant lines simulate the softness and fluffiness of dandelion pompoms, giving a light and airy visual effect. The disturbed circular pattern refers to the dancing dandelion, as if a gust of wind blows, and the seeds are scattered with the wind, light and free. The overall design also incorporates the wave effect of the water pattern, as if the ripples on the water surface, conveying a dynamic and flowing feeling, highlighting the endless changes of nature and life.
 
 ### **2.4.A short technical explanation:**
